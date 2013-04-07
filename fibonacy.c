@@ -8,7 +8,7 @@ int f(int n);
 /* main function */
 int main(void)
 {
-  int n = 3;
+ 	int n = 3;
 	printf("%d", f(n));
 	return 0;
 }
